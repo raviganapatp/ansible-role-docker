@@ -37,3 +37,5 @@ docker_users: []
 
 # Docker daemon options as a dict
 docker_daemon_options: {}
+#  "exec-opts": ["native.cgroupdriver=cgroupfs"]
+#}
